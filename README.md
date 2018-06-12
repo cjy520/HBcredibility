@@ -1,4 +1,4 @@
-# HBcredibility-
+# HBcredibility
 红包诚信计划
 
 1、分享红包只能发送给红包助手，不得将红包对外分享
